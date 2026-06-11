@@ -1,0 +1,17 @@
+{
+  "name": "motetorio_core",
+  "version": "0.1.0",
+  "title": "Motetorio: Basic Edition",
+  "author": "Wille179",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0",
+    "space-age >= 2.0",
+    "bobinserters >= 2.0.3",
+    "PlanetsLib >= 1.18.0",
+    "? any-planet-start >= 1.1.24",
+    "? Redrawn-Space-Connections >= 2.4.2",
+    "? visible-planets >= 1.7.2"
+  ],
+  "description": "Adds six new, highly-interconnected worlds inspired by the game Motemancer, but with a distinctly Factorio twist."
+}

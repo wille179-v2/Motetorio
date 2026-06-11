@@ -1,0 +1,14 @@
+{
+  "name": "arcane_musings",
+  "version": "0.1.0",
+  "title": "Arcane Musings of Motetorio",
+  "author": "Wille179",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0",
+    "space-age >= 2.0",
+    "motetorio_core >= 0.1.0",
+    "? motetorio_overhaul >= 0.1.0"
+  ],
+  "description": "A private testing mod for motetorio ideas. Not for uploading."
+}

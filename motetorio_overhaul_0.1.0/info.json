@@ -1,0 +1,13 @@
+{
+  "name": "motetorio_overhaul",
+  "version": "0.1.0",
+  "title": "Motetorio: Overhaul Edition",
+  "author": "Wille179",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0",
+    "space-age >= 2.0",
+    "motetorio_core >= 0.1.0"
+  ],
+  "description": "Fully overhauls Factorio's progression with six new, highly-interconnected planets based on the alchemical factory game Motemancer."
+}
